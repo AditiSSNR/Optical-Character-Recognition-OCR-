@@ -1,0 +1,7 @@
+In order to install the required libraries perform:
+pip install tensorflow keras
+pip install opencv-python
+pip install pillow
+pip install numpy
+pip install scikit-learn
+pip install tkinter  # Usually included with Python
