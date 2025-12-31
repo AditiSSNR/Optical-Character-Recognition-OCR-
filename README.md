@@ -5,7 +5,7 @@ Performs OCR of digits. Has an interactive GUI. Accepts inputs through multiple 
 This project is an Optical Character Recognition system specifically designed for digit recognition. It features an interactive GUI that accepts input through multiple modalities, making it flexible and user-friendly.
 
 ## Key Features
-1. Digit Recognition: Performs OCR (Optical Character Recognition) specifically for digits
+1. Digit Recognition: Performs OCR (Optical Character Recognition) specifically for digits\
 Uses machine learning to identify and classify handwritten or printed digits
 
 2. Multiple Input Modalities: The system accepts input through three different methods:
@@ -21,10 +21,10 @@ Uses machine learning to identify and classify handwritten or printed digits
 ## Main Files
 1. gui-checkpoint.ipynb - Jupyter Notebook containing the interactive GUI implementation and main application logic
   
-2. Individual Features/ - Directory containing separate implementations of individual OCR components, likely including:
-a. Image processing modules
-b. Model training/inference
-c. Drawing canvas implementation
+2. Individual Features - Directory containing separate implementations of individual OCR components, likely including:\
+a. Image processing modules\
+b. Model training/inference\
+c. Drawing canvas implementation\
 d. Video capture functionality
 
 ## Getting Started
@@ -42,19 +42,19 @@ d. Video capture functionality
 - Input your digit(s) and receive OCR results
 
 ### Features by Input Method
-1. Image Input
-Upload image files containing digits
-Process and recognize digits within the image
+1. Image Input\
+Upload image files containing digits\
+Process and recognize digits within the image\
 Display results with confidence scores (if applicable)
 
-2. Live Video Input
-Access webcam or video source
-Real-time digit recognition
+2. Live Video Input\
+Access webcam or video source\
+Real-time digit recognition\
 Continuous processing frame-by-frame
 
-3. Canvas Drawing
-Draw digits on interactive canvas
-Real-time or on-demand recognition
+3. Canvas Drawing\
+Draw digits on interactive canvas\
+Real-time or on-demand recognition\
 Clear canvas and retry functionality
 
 ## Development Notes
@@ -67,3 +67,7 @@ The project separates functionality into individual feature components, which su
 - Add confidence scores or probability displays for predictions
 - Support for multi-digit recognition
 - Integration with external APIs or services
+
+## Author & License
+Author: Aditi Singarajipura\
+Repository: https://github.com/AditiSSNR/Optical-Character-Recognition-OCR-
